@@ -7,4 +7,4 @@ Description coming soon.
 | Problem | Description |
 |---------|-------------|
 
-| [Problem 01 – untitled problem](problem_01_untitled_problem/README.md) | No description provided. |
+| [Problem 01 – untitled problem](math_patterns\problem_01_Day of the Week After Adding N Days\README.md) | No description provided. |
