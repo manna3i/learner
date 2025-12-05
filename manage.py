@@ -18,7 +18,8 @@ import re
 import sys
 from datetime import datetime
 
-ROOT = "Learner"
+import os
+ROOT = os.getcwd()
 SUBJECT = "Pre-algebra"
 BASE_PATH = os.path.join(ROOT, SUBJECT)
 MAIN_README = os.path.join(BASE_PATH, "README.md")
