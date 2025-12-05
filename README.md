@@ -65,17 +65,18 @@ The path is laid out sequentially. We recommend completing modules in the order 
 
 This repository is designed to keep the problem separate from the solution to encourage active learning.
 
-`Learner/
-├── README.md               ← (You are here)
-└── Pre-algebra/
-     ├── README.md          ← Overview of topic/module
-     └── math_patterns/     ← Specific sub-topic
-         ├── README.md      ← Theory and learning objectives
-         ├── problem_01_A/
-         │   ├── problem_prompt.md  ← 🛑 READ THIS FIRST (The challenge)
-         │   └── solution/
-         │       └── solution.py    ← ✅ Check your answer here
-         └── (more problems...)`
+*   [Learner/](#)
+    *   `README.md` ← (You are here)
+    *   [Pre-algebra/](#)
+        *   `README.md` ← Overview of topic/module
+        *   [math_patterns/](#) ← Specific sub-topic
+            *   `README.md` ← Theory and learning objectives
+            *   [problem_01_A/](#)
+                *   `problem_prompt.md` ← 🛑 READ THIS FIRST (The challenge)
+                *   [solution/](#)
+                    *   `solution.py` ← ✅ Check your answer here
+            *   (more problems...)
+
 
 **Your Learning Cycle:**
 
